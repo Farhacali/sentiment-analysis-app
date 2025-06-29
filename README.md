@@ -34,7 +34,7 @@ This app demonstrates:
 ## ▶️ How to Run
 
 1. Open the notebook in **Google Colab**:
-   - [Click to open in Colab](https://colab.research.google.com/github/your-username/your-repo-name/blob/main/cleaned_sentiment_analysis_app.ipynb)
+   - [Click to open in Colab](https://colab.research.google.com/github/Farhacali/sentiment-analysis-app/blob/main/cleaned_sentiment_analysis_app.ipynb)
 2. Run each cell in sequence
 3. Enter your own text in the prediction section to analyze its sentiment
 
